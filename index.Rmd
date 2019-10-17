@@ -19,6 +19,9 @@ I often use [google](google.com) to do data science
 
 Use this code:
 
-![](image.jpg)
+
+```{r}
+##![](image.jpg)
+```
 
 
