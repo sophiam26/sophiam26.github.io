@@ -3,7 +3,7 @@ output_dir: "."
 navbar:
   title: "Home"
   right:
-    - text: "About"
+    - text: "Plotly"
       href: about.html
     - icon: fa-envelope fa-lg
       href: mailto:<you@youremail.com>
@@ -11,4 +11,4 @@ navbar:
       href: http://github.com/<YOUR_GH_NAME>/
 output:
   html_document:
-    theme: cerulean
+    theme: journal
